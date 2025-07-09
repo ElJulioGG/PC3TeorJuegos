@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: fd9e30b2bc3cdd24989932b2f91757f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5096652776458648395
+    second: PC Computer - Deltarune - Nubert (1) (1)_0
+  - first:
+      213: 3754002885443373890
+    second: PC Computer - Deltarune - Nubert (1) (1)_1
+  - first:
+      213: 7712372783071561961
+    second: PC Computer - Deltarune - Nubert (1) (1)_2
+  - first:
+      213: -4011461905698099615
+    second: PC Computer - Deltarune - Nubert (1) (1)_3
+  - first:
+      213: 8665031220563167408
+    second: PC Computer - Deltarune - Nubert (1) (1)_4
+  - first:
+      213: -5824915815227121836
+    second: PC Computer - Deltarune - Nubert (1) (1)_5
+  - first:
+      213: -680149979230886114
+    second: PC Computer - Deltarune - Nubert (1) (1)_6
+  - first:
+      213: 8513665842711924421
+    second: PC Computer - Deltarune - Nubert (1) (1)_7
+  - first:
+      213: 6244269070909102047
+    second: PC Computer - Deltarune - Nubert (1) (1)_8
+  - first:
+      213: -5883514428574397895
+    second: PC Computer - Deltarune - Nubert (1) (1)_9
+  - first:
+      213: 21839516055671981
+    second: PC Computer - Deltarune - Nubert (1) (1)_10
+  - first:
+      213: 2681260742642029335
+    second: PC Computer - Deltarune - Nubert (1) (1)_11
+  - first:
+      213: -1733884948298519631
+    second: PC Computer - Deltarune - Nubert (1) (1)_12
+  - first:
+      213: -505840786970445323
+    second: PC Computer - Deltarune - Nubert (1) (1)_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b48ca39d4d0549b0800000000000000
+      internalID: -5096652776458648395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 95
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bc4a81cb5e81430800000000000000
+      internalID: 3754002885443373890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e80f5e2f2ad70b60800000000000000
+      internalID: 7712372783071561961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e6ad086ac6458c0800000000000000
+      internalID: -4011461905698099615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 44
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8465d5cff504870800000000000000
+      internalID: 8665031220563167408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f15d28dedb92fa0800000000000000
+      internalID: -5824915815227121836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 44
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1724fd823f9f86f0800000000000000
+      internalID: -680149979230886114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce88330afd962670800000000000000
+      internalID: 8513665842711924421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 23
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7de7de2a918a650800000000000000
+      internalID: 6244269070909102047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a00f5acce895ea0800000000000000
+      internalID: -5883514428574397895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da490949ce69d4000800000000000000
+      internalID: 21839516055671981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 22
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713d0638070c53520800000000000000
+      internalID: 2681260742642029335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb254773d000f7e0800000000000000
+      internalID: -1733884948298519631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Nubert (1) (1)_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9f8bbfb74eaf8f0800000000000000
+      internalID: -505840786970445323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Deltarune - Nubert (1) (1)_0: -5096652776458648395
+      PC Computer - Deltarune - Nubert (1) (1)_1: 3754002885443373890
+      PC Computer - Deltarune - Nubert (1) (1)_10: 21839516055671981
+      PC Computer - Deltarune - Nubert (1) (1)_11: 2681260742642029335
+      PC Computer - Deltarune - Nubert (1) (1)_12: -1733884948298519631
+      PC Computer - Deltarune - Nubert (1) (1)_13: -505840786970445323
+      PC Computer - Deltarune - Nubert (1) (1)_2: 7712372783071561961
+      PC Computer - Deltarune - Nubert (1) (1)_3: -4011461905698099615
+      PC Computer - Deltarune - Nubert (1) (1)_4: 8665031220563167408
+      PC Computer - Deltarune - Nubert (1) (1)_5: -5824915815227121836
+      PC Computer - Deltarune - Nubert (1) (1)_6: -680149979230886114
+      PC Computer - Deltarune - Nubert (1) (1)_7: 8513665842711924421
+      PC Computer - Deltarune - Nubert (1) (1)_8: 6244269070909102047
+      PC Computer - Deltarune - Nubert (1) (1)_9: -5883514428574397895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

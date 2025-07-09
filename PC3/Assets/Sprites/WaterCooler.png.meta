@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 94dad80f844cb174189c99583e79cac0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6123338923757813930
+    second: PC Computer - Deltarune - Watercooler (1) (1)_0
+  - first:
+      213: -1597452243551123491
+    second: PC Computer - Deltarune - Watercooler (1) (1)_1
+  - first:
+      213: 558435150793508476
+    second: PC Computer - Deltarune - Watercooler (1) (1)_2
+  - first:
+      213: 3205476679921689503
+    second: PC Computer - Deltarune - Watercooler (1) (1)_3
+  - first:
+      213: 127293511636177378
+    second: PC Computer - Deltarune - Watercooler (1) (1)_4
+  - first:
+      213: -5253644746903067163
+    second: PC Computer - Deltarune - Watercooler (1) (1)_5
+  - first:
+      213: 2349699103779947056
+    second: PC Computer - Deltarune - Watercooler (1) (1)_6
+  - first:
+      213: -7975238065831342286
+    second: PC Computer - Deltarune - Watercooler (1) (1)_7
+  - first:
+      213: 7414200359429133717
+    second: PC Computer - Deltarune - Watercooler (1) (1)_8
+  - first:
+      213: -2338096865580936793
+    second: PC Computer - Deltarune - Watercooler (1) (1)_9
+  - first:
+      213: -6163397932633581046
+    second: PC Computer - Deltarune - Watercooler (1) (1)_10
+  - first:
+      213: -6525028183357530247
+    second: PC Computer - Deltarune - Watercooler (1) (1)_11
+  - first:
+      213: 3380969928360291146
+    second: PC Computer - Deltarune - Watercooler (1) (1)_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 78
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fb71211b7850ba0800000000000000
+      internalID: -6123338923757813930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 78
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd70c7de5a5b4d9e0800000000000000
+      internalID: -1597452243551123491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7683299fc5ffb700800000000000000
+      internalID: 558435150793508476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93e78a9e042c7c20800000000000000
+      internalID: 3205476679921689503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 78
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1594f36cc34c100800000000000000
+      internalID: 127293511636177378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 78
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5eebc00fd4717b0800000000000000
+      internalID: -5253644746903067163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0328bd9b2eecb9020800000000000000
+      internalID: 2349699103779947056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_7
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 66
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23f03f6db33425190800000000000000
+      internalID: -7975238065831342286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 66
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d85dd1f784e660800000000000000
+      internalID: 7414200359429133717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 66
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1189cd9496d8fd0800000000000000
+      internalID: -2338096865580936793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 66
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a9fff3c36377aa0800000000000000
+      internalID: -6163397932633581046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 66
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fdf8530717275a0800000000000000
+      internalID: -6525028183357530247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Deltarune - Watercooler (1) (1)_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 25
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b61389c3e9bee20800000000000000
+      internalID: 3380969928360291146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Deltarune - Watercooler (1) (1)_0: -6123338923757813930
+      PC Computer - Deltarune - Watercooler (1) (1)_1: -1597452243551123491
+      PC Computer - Deltarune - Watercooler (1) (1)_10: -6163397932633581046
+      PC Computer - Deltarune - Watercooler (1) (1)_11: -6525028183357530247
+      PC Computer - Deltarune - Watercooler (1) (1)_12: 3380969928360291146
+      PC Computer - Deltarune - Watercooler (1) (1)_2: 558435150793508476
+      PC Computer - Deltarune - Watercooler (1) (1)_3: 3205476679921689503
+      PC Computer - Deltarune - Watercooler (1) (1)_4: 127293511636177378
+      PC Computer - Deltarune - Watercooler (1) (1)_5: -5253644746903067163
+      PC Computer - Deltarune - Watercooler (1) (1)_6: 2349699103779947056
+      PC Computer - Deltarune - Watercooler (1) (1)_7: -7975238065831342286
+      PC Computer - Deltarune - Watercooler (1) (1)_8: 7414200359429133717
+      PC Computer - Deltarune - Watercooler (1) (1)_9: -2338096865580936793
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1261 @@
+fileFormatVersion: 2
+guid: f6ec8720241942344bdbb162360ac09a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 264131572177444030
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_0
+  - first:
+      213: 3422225171355836731
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_1
+  - first:
+      213: 7991563587255420108
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_2
+  - first:
+      213: -6528526500652349843
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_3
+  - first:
+      213: 3874190576215368191
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_4
+  - first:
+      213: -1118021175316313863
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_5
+  - first:
+      213: 5492154095414493703
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_6
+  - first:
+      213: 41591186644040812
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_7
+  - first:
+      213: 7338515889192126697
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_8
+  - first:
+      213: -4705810285813356515
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_9
+  - first:
+      213: -7756422559892963323
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_10
+  - first:
+      213: 8500244460964163725
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_11
+  - first:
+      213: 3822365177003456926
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_12
+  - first:
+      213: 484912518034603249
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_13
+  - first:
+      213: 1846074040485603974
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_14
+  - first:
+      213: -389502304378660075
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_15
+  - first:
+      213: 949377826270975584
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_16
+  - first:
+      213: -8106736689182288791
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_17
+  - first:
+      213: 5732206540957056102
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_18
+  - first:
+      213: 1409884364446475214
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_19
+  - first:
+      213: 1586573052229197290
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_20
+  - first:
+      213: 2170722607248511287
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_21
+  - first:
+      213: 8765437716862763174
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_22
+  - first:
+      213: 606163935226445946
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_23
+  - first:
+      213: 336708981866834281
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_24
+  - first:
+      213: 587660268372589513
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_25
+  - first:
+      213: -5627606770724431250
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_26
+  - first:
+      213: 5742940499763649916
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_27
+  - first:
+      213: 4511419103872350917
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_28
+  - first:
+      213: -6895586860820955653
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_29
+  - first:
+      213: -9044884405363345338
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_30
+  - first:
+      213: 4786451604749172962
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_31
+  - first:
+      213: -5515087679475746840
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_32
+  - first:
+      213: 439610207519580379
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_33
+  - first:
+      213: 1848371684093088784
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_34
+  - first:
+      213: -746951206711816630
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_35
+  - first:
+      213: -5063434761267786786
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_36
+  - first:
+      213: -8636133852413714090
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_37
+  - first:
+      213: -8886648856814273025
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_38
+  - first:
+      213: -6932689445804275682
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_39
+  - first:
+      213: 2610337333979468496
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_40
+  - first:
+      213: -3003170253740888528
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_41
+  - first:
+      213: 5055075364816037672
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_42
+  - first:
+      213: 4532256009848410539
+    second: PC Computer - Undertale - Miscellaneous Sprites (1)_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc1a95f3426aa300800000000000000
+      internalID: 264131572177444030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31a01069af2e7f20800000000000000
+      internalID: 3422225171355836731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 37
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc44e42ddbcb7ee60800000000000000
+      internalID: 7991563587255420108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 22
+        width: 68
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6684edbcb30665a0800000000000000
+      internalID: -6528526500652349843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ab7f7dc3e3c530800000000000000
+      internalID: 3874190576215368191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f808e12aadfb70f0800000000000000
+      internalID: -1118021175316313863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70243e41d0d083c40800000000000000
+      internalID: 5492154095414493703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c74b1c6f2c39000800000000000000
+      internalID: 41591186644040812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e84bd1f155a7d560800000000000000
+      internalID: 7338515889192126697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1827bd3a7a91beb0800000000000000
+      internalID: -4705810285813356515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_10
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50001cde6c6ab5490800000000000000
+      internalID: -7756422559892963323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8030cf0d4fe6f570800000000000000
+      internalID: 8500244460964163725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e993d1170e4cb0530800000000000000
+      internalID: 3822365177003456926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcb790bd51cab600800000000000000
+      internalID: 484912518034603249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ae6341f829e9910800000000000000
+      internalID: 1846074040485603974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 19
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b5054c7b5389af0800000000000000
+      internalID: -389502304378660075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_16
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066938c5a1edc2d00800000000000000
+      internalID: 949377826270975584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964d9a9bee51f7f80800000000000000
+      internalID: -8106736689182288791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c7aec7a73ec8f40800000000000000
+      internalID: 5732206540957056102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a53d0c5ae09310800000000000000
+      internalID: 1409884364446475214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed1454f8c3a40610800000000000000
+      internalID: 1586573052229197290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73115f6d5b4ff1e10800000000000000
+      internalID: 2170722607248511287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a08a66892715a970800000000000000
+      internalID: 8765437716862763174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_23
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7043d233e6896800800000000000000
+      internalID: 606163935226445946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_24
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9692bd8f80b3ca400800000000000000
+      internalID: 336708981866834281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_25
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 19
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb75f886e9c72800800000000000000
+      internalID: 587660268372589513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_26
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 19
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a13675579b6e1b0800000000000000
+      internalID: -5627606770724431250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ddd9605f503bf40800000000000000
+      internalID: 5742940499763649916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf83fb5c7cb9e30800000000000000
+      internalID: 4511419103872350917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd7ae2d844fd40a0800000000000000
+      internalID: -6895586860820955653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 7
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f8df1e8d1a7280800000000000000
+      internalID: -9044884405363345338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e04ca3ff54ec6240800000000000000
+      internalID: 4786451604749172962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_32
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f6b7c9f87673b0800000000000000
+      internalID: -5515087679475746840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd027d2972fc91600800000000000000
+      internalID: 439610207519580379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_34
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014524be04cb6a910800000000000000
+      internalID: 1848371684093088784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_35
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 7
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e8463c5db42a5f0800000000000000
+      internalID: -746951206711816630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_36
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbc44f69e01bb9b0800000000000000
+      internalID: -5063434761267786786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_37
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651a726740a462880800000000000000
+      internalID: -8636133852413714090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_38
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd34fdb2f74ca480800000000000000
+      internalID: -8886648856814273025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e188cb41ea32acf90800000000000000
+      internalID: -6932689445804275682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_40
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d259cf99f7c93420800000000000000
+      internalID: 2610337333979468496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_41
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e21c1d0989256d0800000000000000
+      internalID: -3003170253740888528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_42
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82720b8e24c372640800000000000000
+      internalID: 5055075364816037672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Undertale - Miscellaneous Sprites (1)_43
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 7
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1d42af3dec5ee30800000000000000
+      internalID: 4532256009848410539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: ba5216d501899dd47bc969b135f80efe
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC Computer - Undertale - Miscellaneous Sprites (1)_0: 264131572177444030
+      PC Computer - Undertale - Miscellaneous Sprites (1)_1: 3422225171355836731
+      PC Computer - Undertale - Miscellaneous Sprites (1)_10: -7756422559892963323
+      PC Computer - Undertale - Miscellaneous Sprites (1)_11: 8500244460964163725
+      PC Computer - Undertale - Miscellaneous Sprites (1)_12: 3822365177003456926
+      PC Computer - Undertale - Miscellaneous Sprites (1)_13: 484912518034603249
+      PC Computer - Undertale - Miscellaneous Sprites (1)_14: 1846074040485603974
+      PC Computer - Undertale - Miscellaneous Sprites (1)_15: -389502304378660075
+      PC Computer - Undertale - Miscellaneous Sprites (1)_16: 949377826270975584
+      PC Computer - Undertale - Miscellaneous Sprites (1)_17: -8106736689182288791
+      PC Computer - Undertale - Miscellaneous Sprites (1)_18: 5732206540957056102
+      PC Computer - Undertale - Miscellaneous Sprites (1)_19: 1409884364446475214
+      PC Computer - Undertale - Miscellaneous Sprites (1)_2: 7991563587255420108
+      PC Computer - Undertale - Miscellaneous Sprites (1)_20: 1586573052229197290
+      PC Computer - Undertale - Miscellaneous Sprites (1)_21: 2170722607248511287
+      PC Computer - Undertale - Miscellaneous Sprites (1)_22: 8765437716862763174
+      PC Computer - Undertale - Miscellaneous Sprites (1)_23: 606163935226445946
+      PC Computer - Undertale - Miscellaneous Sprites (1)_24: 336708981866834281
+      PC Computer - Undertale - Miscellaneous Sprites (1)_25: 587660268372589513
+      PC Computer - Undertale - Miscellaneous Sprites (1)_26: -5627606770724431250
+      PC Computer - Undertale - Miscellaneous Sprites (1)_27: 5742940499763649916
+      PC Computer - Undertale - Miscellaneous Sprites (1)_28: 4511419103872350917
+      PC Computer - Undertale - Miscellaneous Sprites (1)_29: -6895586860820955653
+      PC Computer - Undertale - Miscellaneous Sprites (1)_3: -6528526500652349843
+      PC Computer - Undertale - Miscellaneous Sprites (1)_30: -9044884405363345338
+      PC Computer - Undertale - Miscellaneous Sprites (1)_31: 4786451604749172962
+      PC Computer - Undertale - Miscellaneous Sprites (1)_32: -5515087679475746840
+      PC Computer - Undertale - Miscellaneous Sprites (1)_33: 439610207519580379
+      PC Computer - Undertale - Miscellaneous Sprites (1)_34: 1848371684093088784
+      PC Computer - Undertale - Miscellaneous Sprites (1)_35: -746951206711816630
+      PC Computer - Undertale - Miscellaneous Sprites (1)_36: -5063434761267786786
+      PC Computer - Undertale - Miscellaneous Sprites (1)_37: -8636133852413714090
+      PC Computer - Undertale - Miscellaneous Sprites (1)_38: -8886648856814273025
+      PC Computer - Undertale - Miscellaneous Sprites (1)_39: -6932689445804275682
+      PC Computer - Undertale - Miscellaneous Sprites (1)_4: 3874190576215368191
+      PC Computer - Undertale - Miscellaneous Sprites (1)_40: 2610337333979468496
+      PC Computer - Undertale - Miscellaneous Sprites (1)_41: -3003170253740888528
+      PC Computer - Undertale - Miscellaneous Sprites (1)_42: 5055075364816037672
+      PC Computer - Undertale - Miscellaneous Sprites (1)_43: 4532256009848410539
+      PC Computer - Undertale - Miscellaneous Sprites (1)_5: -1118021175316313863
+      PC Computer - Undertale - Miscellaneous Sprites (1)_6: 5492154095414493703
+      PC Computer - Undertale - Miscellaneous Sprites (1)_7: 41591186644040812
+      PC Computer - Undertale - Miscellaneous Sprites (1)_8: 7338515889192126697
+      PC Computer - Undertale - Miscellaneous Sprites (1)_9: -4705810285813356515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
