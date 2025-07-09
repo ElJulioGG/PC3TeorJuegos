@@ -330,7 +330,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: -309.1}
-  m_SizeDelta: {x: 600, y: 300}
+  m_SizeDelta: {x: 300, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &379047162
 MonoBehaviour:
@@ -408,7 +408,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 8894201953851282084, guid: 46a7923adfcc2c944888cd558222fce0, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e8311c2fe6fc7294baf3ba4598ea2582, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -590,7 +590,7 @@ Animator:
   m_GameObject: {fileID: 429452604}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: aeadfc7704ce91045a3b0b16efce697b, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -1611,7 +1611,7 @@ GameObject:
   - component: {fileID: 1023384702}
   - component: {fileID: 1023384701}
   m_Layer: 0
-  m_Name: Zombie
+  m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1627,7 +1627,7 @@ Animator:
   m_GameObject: {fileID: 1023384700}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 3e7d0b7df32b4ed4b8e1cb83871a5fae, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -2190,8 +2190,8 @@ Transform:
   m_GameObject: {fileID: 1546124981}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.0404, y: -0.0118, z: -0.19560952}
-  m_LocalScale: {x: 0.9260189, y: 0.9438768, z: 2}
+  m_LocalPosition: {x: -0.011, y: -0.0033, z: -0.19560952}
+  m_LocalScale: {x: 0.9349372, y: 0.94227225, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
