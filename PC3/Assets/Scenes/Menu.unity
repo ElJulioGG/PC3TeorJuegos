@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 379047163}
   - component: {fileID: 379047162}
   m_Layer: 5
-  m_Name: Button
+  m_Name: PlayButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -472,7 +472,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1111
-  m_Sprite: {fileID: -2311659948842064771, guid: 652c7bfbb990f464fb011b8e3c888176, type: 3}
+  m_Sprite: {fileID: 5378638617695176623, guid: bc903cc5812b89a4383b02623fd99648, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -972,7 +972,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1955448553306655712, guid: caca70db1f1394f4789bffc4531999f8, type: 3}
+  m_Sprite: {fileID: -5608819318807225731, guid: 5ba50a0466cf02e4796bc3c1c5e29749, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1074,9 +1074,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1111
-  m_Sprite: {fileID: 6019453725058403666, guid: 9c616aedef6ea034d80c9229d6f0896e, type: 3}
+  m_Sprite: {fileID: 2272552558532156914, guid: bc903cc5812b89a4383b02623fd99648, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 1.02, y: 2.59}
@@ -1158,10 +1158,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "JULIO MEZA u202218912 \nPC3"
+  m_text: 'TF - Teoria de Juegos Insertar nombre
+
+'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9cffbea4de23fe84b911c09e193e8c4f, type: 2}
-  m_sharedMaterial: {fileID: -3107872645170414133, guid: 9cffbea4de23fe84b911c09e193e8c4f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1298,7 +1300,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: -10
-  m_Sprite: {fileID: -1955448553306655712, guid: caca70db1f1394f4789bffc4531999f8, type: 3}
+  m_Sprite: {fileID: -5608819318807225731, guid: 5ba50a0466cf02e4796bc3c1c5e29749, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -1318,8 +1320,8 @@ Transform:
   m_GameObject: {fileID: 1546124981}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.74, y: -0.27, z: -0.19560952}
-  m_LocalScale: {x: 4, y: 2.2, z: 2}
+  m_LocalPosition: {x: 0.0404, y: -0.0118, z: -0.19560952}
+  m_LocalScale: {x: 0.9260189, y: 0.9438768, z: 2}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1381,10 +1383,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "JULIO MEZA u202218912 \nPC3"
+  m_text: TF - Teoria de Juegos Insertar nombre
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 9cffbea4de23fe84b911c09e193e8c4f, type: 2}
-  m_sharedMaterial: {fileID: -3107872645170414133, guid: 9cffbea4de23fe84b911c09e193e8c4f, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
