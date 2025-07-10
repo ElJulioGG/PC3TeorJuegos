@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 08887e8f090f7814aad7150af38513f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3380600703607867383
+    second: DeltaruneGameover2_0
+  - first:
+      213: 5406449015828863303
+    second: DeltaruneGameover2_1
+  - first:
+      213: -756726082460386019
+    second: DeltaruneGameover2_2
+  - first:
+      213: 3932238713945577973
+    second: DeltaruneGameover2_3
+  - first:
+      213: 19390469181268801
+    second: DeltaruneGameover2_4
+  - first:
+      213: -2467057338759883925
+    second: DeltaruneGameover2_5
+  - first:
+      213: -5173348150035689622
+    second: DeltaruneGameover2_6
+  - first:
+      213: 4486142388499964589
+    second: DeltaruneGameover2_7
+  - first:
+      213: 5642599141271111551
+    second: DeltaruneGameover2_8
+  - first:
+      213: -4886402015460672993
+    second: DeltaruneGameover2_9
+  - first:
+      213: -3447992132741475065
+    second: DeltaruneGameover2_10
+  - first:
+      213: 3746776165215198346
+    second: DeltaruneGameover2_11
+  - first:
+      213: -404925040157828874
+    second: DeltaruneGameover2_12
+  - first:
+      213: 5704551530462789397
+    second: DeltaruneGameover2_13
+  - first:
+      213: 6549780101570658013
+    second: DeltaruneGameover2_14
+  - first:
+      213: -7730453811737401435
+    second: DeltaruneGameover2_15
+  - first:
+      213: -9199123750764668885
+    second: DeltaruneGameover2_16
+  - first:
+      213: -3782923303119799968
+    second: DeltaruneGameover2_17
+  - first:
+      213: -1484146020092676929
+    second: DeltaruneGameover2_18
+  - first:
+      213: 2747457347115032058
+    second: DeltaruneGameover2_19
+  - first:
+      213: 7656297591958697333
+    second: DeltaruneGameover2_20
+  - first:
+      213: 617660771007264056
+    second: DeltaruneGameover2_21
+  - first:
+      213: -2231661232745186117
+    second: DeltaruneGameover2_22
+  - first:
+      213: 466605439307153400
+    second: DeltaruneGameover2_23
+  - first:
+      213: -2911398041313846863
+    second: DeltaruneGameover2_24
+  - first:
+      213: 5928891689463877510
+    second: DeltaruneGameover2_25
+  - first:
+      213: -5494548371766389555
+    second: DeltaruneGameover2_26
+  - first:
+      213: -4682413682536479925
+    second: DeltaruneGameover2_27
+  - first:
+      213: -4666204169775032604
+    second: DeltaruneGameover2_28
+  - first:
+      213: -1491075389583097883
+    second: DeltaruneGameover2_29
+  - first:
+      213: 8085003955257508798
+    second: DeltaruneGameover2_30
+  - first:
+      213: -8405506662999720078
+    second: DeltaruneGameover2_31
+  - first:
+      213: -5052763992304191930
+    second: DeltaruneGameover2_32
+  - first:
+      213: -5941526256670293802
+    second: DeltaruneGameover2_33
+  - first:
+      213: -3723738225203765869
+    second: DeltaruneGameover2_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeltaruneGameover2_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 367
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908740e3291b511d0800000000000000
+      internalID: -3380600703607867383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 367
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7495dbc3cb0970b40800000000000000
+      internalID: 5406449015828863303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 337
+        width: 8
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dfca623a19f75f0800000000000000
+      internalID: -756726082460386019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 367
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9d3c4c64e129630800000000000000
+      internalID: 3932238713945577973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 337
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e39b6783e44000800000000000000
+      internalID: 19390469181268801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_5
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6352b2eb6043cdd0800000000000000
+      internalID: -2467057338759883925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 337
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fc2b164439438b0800000000000000
+      internalID: -5173348150035689622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2ec56dbbaf14e30800000000000000
+      internalID: 4486142388499964589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_8
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 367
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f778361f50a8e4e40800000000000000
+      internalID: 5642599141271111551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 337
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ab6b69143003cb0800000000000000
+      internalID: -4886402015460672993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_10
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 367
+        width: 26
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7055a9b6c654620d0800000000000000
+      internalID: -3447992132741475065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_11
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 337
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c5d8c22193ff330800000000000000
+      internalID: 3746776165215198346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 337
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f85bb442da616af0800000000000000
+      internalID: -404925040157828874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_13
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 367
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f35289463aa2f40800000000000000
+      internalID: 5704551530462789397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_14
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 337
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde7a07dc4e75ea50800000000000000
+      internalID: 6549780101570658013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_15
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 337
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7e3d64739e7b490800000000000000
+      internalID: -7730453811737401435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 367
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2810de00b5265080800000000000000
+      internalID: -9199123750764668885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_17
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 367
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0693ff07c4b508bc0800000000000000
+      internalID: -3782923303119799968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 337
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4f09dde01476be0800000000000000
+      internalID: -1484146020092676929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_19
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 367
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd145a86ede02620800000000000000
+      internalID: 2747457347115032058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 367
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57570675812a04a60800000000000000
+      internalID: 7656297591958697333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 337
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f49fd23f529800800000000000000
+      internalID: 617660771007264056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_22
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 307
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc7633ceeb8701e0800000000000000
+      internalID: -2231661232745186117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 329
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fffa24cc27b97600800000000000000
+      internalID: 466605439307153400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 337
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b958bb18e2a897d0800000000000000
+      internalID: -2911398041313846863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_25
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 329
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f82463497a74250800000000000000
+      internalID: 5928891689463877510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 329
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d9a30e517fb3b0800000000000000
+      internalID: -5494548371766389555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 329
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b430cf07099b40fb0800000000000000
+      internalID: -4682413682536479925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 329
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6dc1bb7005e3fb0800000000000000
+      internalID: -4666204169775032604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 329
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef729e45d2ae4be0800000000000000
+      internalID: -1491075389583097883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_30
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 329
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb380c8d244b33070800000000000000
+      internalID: 8085003955257508798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_31
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 329
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ff8ba6934a95b80800000000000000
+      internalID: -8405506662999720078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 329
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646f2d07be9f0e9b0800000000000000
+      internalID: -5052763992304191930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_33
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 307
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0c28f59557b8da0800000000000000
+      internalID: -5941526256670293802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltaruneGameover2_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 329
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d9f2a30df925cc0800000000000000
+      internalID: -3723738225203765869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      DeltaruneGameover2_0: -3380600703607867383
+      DeltaruneGameover2_1: 5406449015828863303
+      DeltaruneGameover2_10: -3447992132741475065
+      DeltaruneGameover2_11: 3746776165215198346
+      DeltaruneGameover2_12: -404925040157828874
+      DeltaruneGameover2_13: 5704551530462789397
+      DeltaruneGameover2_14: 6549780101570658013
+      DeltaruneGameover2_15: -7730453811737401435
+      DeltaruneGameover2_16: -9199123750764668885
+      DeltaruneGameover2_17: -3782923303119799968
+      DeltaruneGameover2_18: -1484146020092676929
+      DeltaruneGameover2_19: 2747457347115032058
+      DeltaruneGameover2_2: -756726082460386019
+      DeltaruneGameover2_20: 7656297591958697333
+      DeltaruneGameover2_21: 617660771007264056
+      DeltaruneGameover2_22: -2231661232745186117
+      DeltaruneGameover2_23: 466605439307153400
+      DeltaruneGameover2_24: -2911398041313846863
+      DeltaruneGameover2_25: 5928891689463877510
+      DeltaruneGameover2_26: -5494548371766389555
+      DeltaruneGameover2_27: -4682413682536479925
+      DeltaruneGameover2_28: -4666204169775032604
+      DeltaruneGameover2_29: -1491075389583097883
+      DeltaruneGameover2_3: 3932238713945577973
+      DeltaruneGameover2_30: 8085003955257508798
+      DeltaruneGameover2_31: -8405506662999720078
+      DeltaruneGameover2_32: -5052763992304191930
+      DeltaruneGameover2_33: -5941526256670293802
+      DeltaruneGameover2_34: -3723738225203765869
+      DeltaruneGameover2_4: 19390469181268801
+      DeltaruneGameover2_5: -2467057338759883925
+      DeltaruneGameover2_6: -5173348150035689622
+      DeltaruneGameover2_7: 4486142388499964589
+      DeltaruneGameover2_8: 5642599141271111551
+      DeltaruneGameover2_9: -4886402015460672993
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
