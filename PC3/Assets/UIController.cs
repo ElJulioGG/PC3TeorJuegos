@@ -27,6 +27,8 @@ public Sprite brokenHeartSprite; // Drag your new sprite here in the Inspector
 
     private void Start()
     {
+        GameManager.instance.playerHealth = 1;
+        GameManager.instance.playerTime = 0f;
         follow.StartFollowing();
         gameMusic.Play();
         deathMusic.Stop();
