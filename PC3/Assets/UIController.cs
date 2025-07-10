@@ -9,12 +9,12 @@ public class UIController : MonoBehaviour
     public AudioSource deathMusic;
     public AudioSource gameMusic;
     public AudioSource deathSfxAudio;
-public Sprite brokenHeartSprite; // Drag your new sprite here in the Inspector
+    public Sprite brokenHeartSprite; 
 
     public GameObject canvasBlackScreen;
-    public GameObject heartImg;             // The heart image to show
-    public GameObject deathParticlesPrefab; // Particle prefab to instantiate
-    public Transform particleSpawnPoint;    // Where particles appear
+    public GameObject heartImg;             
+    public GameObject deathParticlesPrefab; 
+    public Transform particleSpawnPoint;    
 
     public TextMeshProUGUI healthText1;
     public TextMeshProUGUI healthText2;
@@ -73,7 +73,6 @@ public Sprite brokenHeartSprite; // Drag your new sprite here in the Inspector
         deathSfxAudio.Play();
         yield return new WaitForSeconds(0.5f);
 
-        // Change heart sprite (for SpriteRenderer)
         SpriteRenderer heartSprite = heartImg.GetComponent<SpriteRenderer>();
         if (heartSprite != null && brokenHeartSprite != null)
         {
@@ -88,7 +87,7 @@ public Sprite brokenHeartSprite; // Drag your new sprite here in the Inspector
 
        yield return new WaitForSeconds(2f);
 
-// Move canvasBlackScreen to index 1 (just in front of the backmost object)
+
         canvasBlackScreen.transform.SetSiblingIndex(1);
 
         gameOverText.gameObject.SetActive(true);
